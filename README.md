@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Gonzalo Adrián Arias</h1>
 <h3 align="center">A passionate fullstack developer from Argentina</h3>
 
+<h4>Soy Fullstack Developer pero mas orientado al lado del backend. Me gusta trabajar en equipo pero tambien los desafios personales para poder crecer dia a dia</h4>
+
 - 📫 How to reach me **adriaramis210@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
